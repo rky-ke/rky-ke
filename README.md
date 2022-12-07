@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ronald Yegon</h1>
 <h3 align="center">A passionate Fullstack Engineer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/lovely-animations-of-the-month-december-2017--88946161376771631/">
+<img align="right" alt="Coding" width="400" src="https://github.com/rudrabarad/Gifs">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rky-ke&label=Profile%20views&color=0e75b6&style=flat" alt="rky-ke" /> </p>
 
