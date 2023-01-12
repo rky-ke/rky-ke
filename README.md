@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/rky_ke" target="blank"><img src="https://img.shields.io/twitter/follow/rky_ke?logo=twitter&style=for-the-badge" alt="rky_ke" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Software Engineering at ALX-AFRICA**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **Full Stack MEARN**
 
 - 📫 How to reach me **ronaldyegon15@gmail.com**
 
