@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Software Engineering at ALX-AFRICA**
 
-- 💬 Ask me about **Full Stack MEARN**
+- 💬 Ask me about **Full Stack MERN**
 
 - 📫 How to reach me **ronaldyegon15@gmail.com**
 
